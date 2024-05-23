@@ -1,4 +1,4 @@
-# Pacman1
+# Pacman- coursework 1
 ## 1 Overview
 
 For this coursework, you will have to implement a classifier. You will use this classifier in some code that has to make a decision. The code will be controlling Pacman, in the classic game, and the decision will be about how Pacman chooses to move. Your classifier probably won’t help Pacman to make particularly good decisions (I will be surprised if it helps Pacman win games, my version certainly didn’t), but that is not the point. The point is to write a classifier and use it.
