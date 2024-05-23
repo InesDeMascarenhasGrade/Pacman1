@@ -347,8 +347,13 @@ you will lose marks.
 
 A copy of the marksheet, which shows the distribution of marks across the different elements of the
 coursework, is available from KEATS, together with FAQs.
+
 Version list
+
 • Version 1.0, January 28th 2018
+
 • Version 1.1, January 11th 2021
+
 • Version 1.2, January 30th 2022
+
 • Version 1.3, January 4th 2023
