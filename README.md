@@ -290,9 +290,9 @@ single file.) This ZIP file must include a single Python file (your code): class
 
 The ZIP file must be named:
 
-cw1-<group name>.zip
+cw1-<name>.zip
 
-so the ZIP file from Group A would be named cw1-group-a.zip.
+so the ZIP file from A would be named cw1-a.zip.
 Remember that we are going to evaluate your code by running your code by using variations on
 
 python pacman.py -p ClassifierAgent
